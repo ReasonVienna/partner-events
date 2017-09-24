@@ -1,6 +1,4 @@
-# partner-events
-A list of Events from Partners with Discount Codes
-
+List of events from partners with discount codes. In case you are interested about ReasonVienna meetups please checkout https://www.meetup.com/Reason-Vienna
 
 #### dotJS (2017-11-30 - 2017-12-01) 
 
